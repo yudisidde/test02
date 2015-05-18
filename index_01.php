@@ -181,7 +181,10 @@ if(isset($_POST['kali'])){
 if(isset($_POST['bagi'])){
 		$hasil=$a/$b;
 }
+/*Felix comiit*/
+echo "FELIX";
 ?>
+
 <table>
 <form method="post" action="<?php echo $_SERVER["PHP_SELF"];?>">
 	<tr>
